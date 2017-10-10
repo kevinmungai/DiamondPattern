@@ -18,6 +18,6 @@ include_directories(${OPENGL_INCLUDE_DIRS} ${GLUT_INCLUDE_DIRS})
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 
-target_link_libraries(diamondPattern ${OPENGL_LIBRARIES} ${GLUT_LIBRARY})
+target_link_libraries(${PROJECT_NAME} ${OPENGL_LIBRARIES} ${GLUT_LIBRARY})
 
 
