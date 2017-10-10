@@ -3,7 +3,7 @@
 
 
 	1. Start with Identifying the First Diamond
-	2. Put in the coordinates for the First Diamind
+	2. Put in the coordinates for the First Diamond
 	3. Create a for-loop to to create diamonds at the same time
 	4. Introduce an outer for-loop to cater for the y - axis.
 
